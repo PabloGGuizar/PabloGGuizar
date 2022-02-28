@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PabloGGuizar
 - 👀 I’m interested in computational linguistics, corpus analysis, machine learning. 
-- 🌱 I’m currently learning javascript, python and c++.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning javascript and python.
+- 💞️ I’m looking to collaborate on any project.
 - 📫 pablogguizar@gmail.com
 
 <!---
